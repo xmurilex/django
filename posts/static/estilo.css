@@ -1,0 +1,23 @@
+body{
+    background-color: #000;
+    color: #fff;
+    margin: 0
+}
+
+img{
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    height: 80px;
+}
+
+nav a{
+    color:purple;
+    font-size: 14pt;
+    text-decoration: rgb(245, 245, 245);
+}
